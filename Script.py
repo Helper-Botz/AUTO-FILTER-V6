@@ -318,7 +318,7 @@ Elsa
 ♻️ 𝙅𝙊𝙄𝙉 :- <a href="https://t.me/OTT_ARAKAL_THERAVAD_MOVIESS">OTT UPDATES</a>
 ♻️ 𝙅𝙊𝙄𝙉 :- <a href="t.me/ARAKAL_THERAVAD_GROUP_LINKS">CHANNEL</a>
 ♻️ 𝙅𝙊𝙄𝙉 :- <a href="t.me/ARAKAL_THERAVAD_MOVIES">GROUP</a>
-╚════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╝</b>
+╚════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╝</b>"""
 
     RESTART_TXT = """
 <b>Bᴏᴛ Rᴇsᴛᴀʀᴛᴇᴅ !
