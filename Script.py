@@ -289,7 +289,7 @@ Elsa
 <b>
 𝐻𝑒𝑙𝑙𝑜 👋 {}</b>,
 
-<b>I'ᴍ <a href=https://t.me/{}>{}</a>Yᴏᴜ Cᴀɴ Cᴀʟʟ Mᴇ Aꜱ Aᴜᴛᴏ Fɪʟᴛᴇʀ Bᴏᴛ ᴠ1 🫶</b>
+<b>I'ᴍ <a href=https://t.me/{}>{}</a>Yᴏᴜ Cᴀɴ Cᴀʟʟ Mᴇ Aꜱ Aᴜᴛᴏ Fɪʟᴛᴇʀ Bᴏᴛ ᴠ6 🫶</b>
 
 <b>Exᴄʟᴜꜱɪᴠᴇʟʏ Mᴀᴅᴇ Tʜɪꜱ Bᴏᴛ Fᴏʀ @ARAKAL_THERAVAD_MOVIES..!! 💫</b>
 
@@ -315,10 +315,10 @@ Elsa
 
 
 ╔════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╗
-▫️<a href=https://t.me/ARAKAL_THERAVAD_MOVIES> ᴄʜᴀɴɴᴇʟ </a>
-
-▫️<a href=https://t.me/OTT_ARAKAL_THERAVAD_MOVIESS> sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ </a>
-╚════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╝</b>"""
+♻️ 𝙅𝙊𝙄𝙉 :- <a href="https://t.me/OTT_ARAKAL_THERAVAD_MOVIESS">OTT UPDATES</a>
+♻️ 𝙅𝙊𝙄𝙉 :- <a href="t.me/ARAKAL_THERAVAD_GROUP_LINKS">CHANNEL</a>
+♻️ 𝙅𝙊𝙄𝙉 :- <a href="t.me/ARAKAL_THERAVAD_MOVIES">GROUP</a>
+╚════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╝</b>
 
     RESTART_TXT = """
 <b>Bᴏᴛ Rᴇsᴛᴀʀᴛᴇᴅ !
